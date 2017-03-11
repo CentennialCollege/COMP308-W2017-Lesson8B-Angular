@@ -1,5 +1,3 @@
-/// <reference path="../../node_modules/@angular/platform-browser-dynamic/index.d.ts"/>
-/// <reference path="../../node_modules/@angular/platform-browser/index.d.ts"/>
 System.register(['@angular/platform-browser-dynamic', './app.module'], function(exports_1, context_1) {
     "use strict";
     var __moduleName = context_1 && context_1.id;
